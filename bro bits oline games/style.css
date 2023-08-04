@@ -1,0 +1,58 @@
+body{
+
+	text-align: center;
+	background-color: black;
+/*	s*/
+
+}
+
+
+ p{
+ 	font-size: 50px;
+ 	color: red;
+ }
+
+ 	h1{
+ 		background-color: red;
+ 		border-radius: 50px;
+	border: 1px solid black;
+	font-size: 40px;
+ 	}
+input{
+
+	border-radius: 100px;
+	border-color: blue;
+	color: red;
+
+}
+
+a{
+	border-radius: 50px;
+	font-size: 47px;
+	text-decoration: none;
+	background-color: blue;
+
+
+
+}
+
+h3{
+	color: blue;
+	font-size: 30px;
+
+
+}
+
+.container{
+
+ width: 1010px;
+ height: 5000px;
+ border: 1px solid black;
+ margin: 0 sauto;
+ text-align: center;
+ align-items: center;
+ left: 40%;
+}
+
+
+
